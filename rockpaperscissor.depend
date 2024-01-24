@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706080850 source:c:\users\kavit\onedrive\desktop\kavi\c programming\rockpaperscissor\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
